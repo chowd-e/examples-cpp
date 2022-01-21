@@ -1,0 +1,18 @@
+7
+Olson's office
+Stiber's office
+STEM office
+The Commons
+five
+six
+seven
+1 2 5
+2 3 5
+3 4 5
+4 5 5
+5 6  5
+6 7 5
+7 7 5
+7 1 5
+0 0  0
+
