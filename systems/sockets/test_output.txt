@@ -1,0 +1,87 @@
+test 15 * 100
+type 1
+Test 1: time = 333420 µs, #reads = 24257, throughput = 0.72 Gbps
+Test 1: time = 306982 µs, #reads = 23707, throughput = 0.78 Gbps
+Test 1: time = 326854 µs, #reads = 23954, throughput = 0.73 Gbps
+Test 1: time = 321187 µs, #reads = 24002, throughput = 0.75 Gbps
+Test 1: time = 311730 µs, #reads = 24072, throughput = 0.77 Gbps
+
+type 2
+Test 2: time = 54660 µs, #reads = 21091, throughput = 4.39 Gbps
+Test 2: time = 56213 µs, #reads = 20859, throughput = 4.27 Gbps
+Test 2: time = 52748 µs, #reads = 20990, throughput = 4.55 Gbps
+Test 2: time = 59370 µs, #reads = 21157, throughput = 4.04 Gbps
+Test 2: time = 62962 µs, #reads = 21240, throughput = 3.81 Gbps
+
+type 3
+Test 3: time = 32858 µs, #reads = 20221, throughput = 7.30 Gbps
+Test 3: time = 30235 µs, #reads = 20012, throughput = 7.94 Gbps
+Test 3: time = 30871 µs, #reads = 20069, throughput = 7.77 Gbps
+Test 3: time = 27749 µs, #reads = 20063, throughput = 8.65 Gbps
+Test 3: time = 28166 µs, #reads = 20064, throughput = 8.52 Gbps
+
+test 30 *50
+type 1
+Test 1: time = 619303 µs, #reads = 27538, throughput = 0.39 Gbps
+Test 1: time = 600496 µs, #reads = 27415, throughput = 0.40 Gbps
+Test 1: time = 749724 µs, #reads = 28310, throughput = 0.32 Gbps
+Test 1: time = 624242 µs, #reads = 27503, throughput = 0.38 Gbps
+Test 1: time = 603341 µs, #reads = 27361, throughput = 0.40 Gbps
+
+type 2
+Test 2: time = 81467 µs, #reads = 21588, throughput = 2.95 Gbps
+Test 2: time = 83375 µs, #reads = 21608, throughput = 2.88 Gbps
+Test 2: time = 83272 µs, #reads = 21578, throughput = 2.88 Gbps
+Test 2: time = 87810 µs, #reads = 21567, throughput = 2.73 Gbps
+Test 2: time = 78931 µs, #reads = 21454, throughput = 3.04 Gbps
+
+type 3
+Test 3: time = 29821 µs, #reads = 20004, throughput = 8.05 Gbps
+Test 3: time = 30453 µs, #reads = 20010, throughput = 7.88 Gbps
+Test 3: time = 31157 µs, #reads = 20003, throughput = 7.70 Gbps
+Test 3: time = 32390 µs, #reads = 20005, throughput = 7.41 Gbps
+Test 3: time = 30196 µs, #reads = 20004, throughput = 7.95 Gbps
+
+test 60 *25
+type 1
+Test 1: time = 1210744 µs, #reads = 32334, throughput = 0.20 Gbps
+Test 1: time = 1247783 µs, #reads = 32734, throughput = 0.19 Gbps
+Test 1: time = 1232515 µs, #reads = 33140, throughput = 0.19 Gbps
+Test 1: time = 1216203 µs, #reads = 33037, throughput = 0.20 Gbps
+Test 1: time = 1213100 µs, #reads = 33106, throughput = 0.20 Gbps
+
+type 2
+Test 2: time = 133516 µs, #reads = 21716, throughput = 1.80 Gbps
+Test 2: time = 136115 µs, #reads = 21716, throughput = 1.76 Gbps
+Test 2: time = 129036 µs, #reads = 21737, throughput = 1.86 Gbps
+Test 2: time = 140052 µs, #reads = 21847, throughput = 1.71 Gbps
+Test 2: time = 131144 µs, #reads = 21820, throughput = 1.83 Gbps
+
+type 3
+Test 3: time = 34358 µs, #reads = 20014, throughput = 6.99 Gbps
+Test 3: time = 28182 µs, #reads = 20011, throughput = 8.52 Gbps
+Test 3: time = 27368 µs, #reads = 20008, throughput = 8.77 Gbps
+Test 3: time = 33621 µs, #reads = 20019, throughput = 7.14 Gbps
+Test 3: time = 26736 µs, #reads = 20036, throughput = 8.98 Gbps
+
+test 100 * 15
+type 1
+Test 1: time = 2072295 µs, #reads = 39718, throughput = 0.12 Gbps
+Test 1: time = 2000687 µs, #reads = 39317, throughput = 0.12 Gbps
+Test 1: time = 2029158 µs, #reads = 40101, throughput = 0.12 Gbps
+Test 1: time = 2022255 µs, #reads = 39650, throughput = 0.12 Gbps
+Test 1: time = 1986784 µs, #reads = 39666, throughput = 0.12 Gbps
+
+type 2
+Test 2: time = 192906 µs, #reads = 21249, throughput = 1.24 Gbps
+Test 2: time = 192216 µs, #reads = 21423, throughput = 1.25 Gbps
+Test 2: time = 192457 µs, #reads = 21471, throughput = 1.25 Gbps
+Test 2: time = 195946 µs, #reads = 21550, throughput = 1.22 Gbps
+Test 2: time = 202770 µs, #reads = 21407, throughput = 1.18 Gbps
+
+type 3
+Test 3: time = 35303 µs, #reads = 20242, throughput = 6.80 Gbps
+Test 3: time = 27485 µs, #reads = 20068, throughput = 8.73 Gbps
+Test 3: time = 26994 µs, #reads = 20050, throughput = 8.89 Gbps
+Test 3: time = 27589 µs, #reads = 20046, throughput = 8.70 Gbps
+Test 3: time = 28137 µs, #reads = 20027, throughput = 8.53 Gbps
